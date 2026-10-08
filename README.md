@@ -8,7 +8,7 @@
 <h3 align="center">📊 Software Developer | Python | Data Structures | Algorithms | Power BI</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Excel+%7C+Tableau+%7C+HTML;Turning+Data+Into+Insights;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=DSA+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Powerful+Algorithms;Future+AI+Engineer"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 
 🎓 BCA Student passionate about **Artificial Intelligence & Machine Learning**
 
-📊 I enjoy transforming **raw data into powerful insights**
+📊 I enjoy transforming **raw data into powerful algorithms**
 
 🐍 Working with **Python for Machine Learning**
 
@@ -47,15 +47,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,OOP,DSA" height="60"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-217346?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-E97627?style=for-the-badge&logo=dsa&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
